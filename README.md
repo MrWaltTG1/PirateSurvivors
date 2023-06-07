@@ -1,4 +1,4 @@
 
-# Haikus for Codespaces
+# Pirate Survivors
+My first (unfinished) python project based on the hit indie game Vampire Survivors. Captain a pirate ship to blow up hostile ships trying to take your treasure!
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
